@@ -1,5 +1,5 @@
 # FGSM Adversarial
-This project implements the FGSM method for generating adversarial noise based on the paper [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) by Goodfellow, Shlens, and Szegedy.</br>
+This project implements the Fast Gradient Sign Method (FGSM) for generating adversarial noise based on the paper [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) by Goodfellow, Shlens, and Szegedy.</br>
 ## Mechanics
 The general idea is fairly straightforward, where we define the adversarial example as: 
 ```math
